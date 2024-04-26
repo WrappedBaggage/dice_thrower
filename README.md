@@ -18,7 +18,7 @@ Each set is formatted like this: (number of dice)d(number ofsides on dice)
 
 The code takes each of these sets of dice and parses them to produce the result of the roll.
 
-![Dice Thrower CLI Interface](image.png)
+![Dice Thrower CLI Interface](images\dice_thrower_cli_interface.png)
 
 ### License
 This project is licensed under the MIT license - see license.md for details
